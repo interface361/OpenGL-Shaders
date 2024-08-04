@@ -19,6 +19,8 @@ void ResizeCallback(GLFWwindow *window, int Width, int Height)
 float Xoffset = 0.0f;
 float Yoffset = 0.0f;
 
+// Basic Controls
+
 void InputManager(GLFWwindow *window)
 {
     if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
