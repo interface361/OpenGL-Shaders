@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/niklasburkart/Documents/OpenGL-Shaders/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/usr/local/include -I/Users/niklasburkart/Documents/OpenGL-Shaders/Dependencies/glad/glad.h -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/System/Library/Frameworks  -std=c++20 -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/Output.dir/Source/main.cpp.o -c /Users/niklasburkart/Documents/OpenGL-Shaders/Source/main.cpp",
+  "file": "/Users/niklasburkart/Documents/OpenGL-Shaders/Source/main.cpp",
+  "output": "CMakeFiles/Output.dir/Source/main.cpp.o"
+},
+{
+  "directory": "/Users/niklasburkart/Documents/OpenGL-Shaders/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/usr/local/include -I/Users/niklasburkart/Documents/OpenGL-Shaders/Dependencies/glad/glad.h -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/System/Library/Frameworks -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/Output.dir/Dependencies/src/glad.c.o -c /Users/niklasburkart/Documents/OpenGL-Shaders/Dependencies/src/glad.c",
+  "file": "/Users/niklasburkart/Documents/OpenGL-Shaders/Dependencies/src/glad.c",
+  "output": "CMakeFiles/Output.dir/Dependencies/src/glad.c.o"
+}
+]

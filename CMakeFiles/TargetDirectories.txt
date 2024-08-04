@@ -1,0 +1,3 @@
+/Users/niklasburkart/Documents/OpenGL-Shaders/CMakeFiles/Output.dir
+/Users/niklasburkart/Documents/OpenGL-Shaders/CMakeFiles/edit_cache.dir
+/Users/niklasburkart/Documents/OpenGL-Shaders/CMakeFiles/rebuild_cache.dir
